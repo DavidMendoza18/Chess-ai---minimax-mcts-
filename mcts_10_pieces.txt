@@ -1,0 +1,14 @@
+. . . . . . k .
+. . . . . p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . P P P
+R . . . K . . r
+FEN: 6k1/5ppp/8/8/8/8/5PPP/R3K2r w - - 0 1
+Pieces: 10
+Simulations: 1000
+Rollout limit: 80
+Selected move: Ke2
+Time: 4.3022 seconds

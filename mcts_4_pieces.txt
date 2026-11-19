@@ -1,0 +1,14 @@
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+. . . . K . . r
+FEN: 4k3/8/8/8/8/8/4P3/4K2r w - - 0 1
+Pieces: 4
+Simulations: 1000
+Rollout limit: 80
+Selected move: Kf2
+Time: 3.1625 seconds

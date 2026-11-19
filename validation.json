@@ -1,0 +1,9 @@
+{
+  "checks": "Portfolio preparation checks, not original timed runs",
+  "archived_search_logs": 60,
+  "fens_match_position_definitions": 60,
+  "selected_moves_legal": 60,
+  "alpha_beta_example_lines_end_in_checkmate": 20,
+  "mcts_verification_records_matched": 20,
+  "note": "Line replay verifies legal checkmate examples, not all defensive branches or uniqueness."
+}

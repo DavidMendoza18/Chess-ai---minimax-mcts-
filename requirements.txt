@@ -1,0 +1,3 @@
+# Chess packages used for portfolio preparation; original run versions unknown.
+python-chess==1.999
+chess==1.11.2

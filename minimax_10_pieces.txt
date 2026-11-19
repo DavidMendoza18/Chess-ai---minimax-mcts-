@@ -1,0 +1,14 @@
+FEN: 6k1/5ppp/8/8/8/8/5PPP/R3K2r w - - 0 1
+Pieces: 10
+. . . . . . k .
+. . . . . p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . P P P
+R . . . K . . r
+Depth: 4
+Best move: Ke2
+Evaluation: -5
+Time: 0.2049 seconds

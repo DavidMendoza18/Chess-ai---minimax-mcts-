@@ -1,0 +1,14 @@
+FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+Pieces: 32
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+Depth: 4
+Best move: Nh3
+Evaluation: 0
+Time: 4.1861 seconds
