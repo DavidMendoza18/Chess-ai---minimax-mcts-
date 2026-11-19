@@ -1,0 +1,21 @@
+Position: 14 - Smothered Mate
+FEN: 6rk/6pp/7P/1N2Q3/6pb/8/8/6K1 w - - 0 1
+Pieces: 10
+Turn: White
+. . . . . . r k
+. . . . . . p p
+. . . . . . . P
+. N . . Q . . .
+. . . . . . p b
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+Algorithm: Minimax with alpha-beta
+Depth (plies): 5
+Time limit: 60.0 seconds
+Searching...
+Selected move: Nd6
+Evaluation: 10000
+Forced mate within search depth: YES
+Example line: Nd6 Bf2+ Kg2 Rf8 Qxg7#
+Time: 0.2404 seconds

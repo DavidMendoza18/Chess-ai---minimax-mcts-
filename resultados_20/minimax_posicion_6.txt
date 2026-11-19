@@ -1,0 +1,18 @@
+Position: 6 - Back-Rank Mate: Queen Sacrifices
+FEN: 7k/3Q2pp/4r3/8/8/8/3r3P/6K1 w - - 0 1
+Pieces: 8
+Turn: White
+. . . . . . . k
+. . . Q . . p p
+. . . . r . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . r . . . P
+. . . . . . K .
+Algorithm: Minimax
+Depth (plies): 3
+Searching... Please wait.
+Selected move: Qc8+
+Evaluation: 3
+Time: 0.2997 seconds

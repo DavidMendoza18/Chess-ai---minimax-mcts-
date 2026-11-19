@@ -1,0 +1,21 @@
+Position: 8 - Queen Sacrifice and Knight Support
+FEN: 2N3rk/5Qpp/8/8/8/8/5R2/2K5 w - - 0 1
+Pieces: 8
+Turn: White
+. . N . . . r k
+. . . . . Q p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . R . .
+. . K . . . . .
+Algorithm: Minimax with alpha-beta
+Depth (plies): 5
+Time limit: 60.0 seconds
+Searching...
+Selected move: Qxg8+
+Evaluation: 10000
+Forced mate within search depth: YES
+Example line: Qxg8+ Kxg8 Ne7+ Kh8 Rf8#
+Time: 0.2162 seconds

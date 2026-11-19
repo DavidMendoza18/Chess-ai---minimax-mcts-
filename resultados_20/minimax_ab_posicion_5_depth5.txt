@@ -1,0 +1,21 @@
+Position: 5 - Loyd's Charles XII Problem
+FEN: 8/6R1/7p/5K1k/8/6p1/5bPP/4N3 w - - 0 1
+Pieces: 9
+Turn: White
+. . . . . . . .
+. . . . . . R .
+. . . . . . . p
+. . . . . K . k
+. . . . . . . .
+. . . . . . p .
+. . . . . b P P
+. . . . N . . .
+Algorithm: Minimax with alpha-beta
+Depth (plies): 5
+Time limit: 60.0 seconds
+Searching...
+Selected move: Rxg3
+Evaluation: 10000
+Forced mate within search depth: YES
+Example line: Rxg3 Bxg3 Nf3 Bxh2 g4#
+Time: 0.3399 seconds

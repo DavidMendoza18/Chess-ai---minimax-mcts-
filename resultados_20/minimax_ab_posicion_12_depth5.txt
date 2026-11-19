@@ -1,0 +1,21 @@
+Position: 12 - Arabian Mate
+FEN: 6N1/Q4Rpk/8/8/8/6n1/8/K7 w - - 0 1
+Pieces: 7
+Turn: White
+. . . . . . N .
+Q . . . . R p k
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . n .
+. . . . . . . .
+K . . . . . . .
+Algorithm: Minimax with alpha-beta
+Depth (plies): 5
+Time limit: 60.0 seconds
+Searching...
+Selected move: Rxg7+
+Evaluation: 10000
+Forced mate within search depth: YES
+Example line: Rxg7+ Kh8 Rh7+ Kxg8 Qg7#
+Time: 1.2808 seconds

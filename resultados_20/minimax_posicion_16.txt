@@ -1,0 +1,18 @@
+Position: 16 - Promotion Mate
+FEN: 7k/1P6/6p1/8/8/6K1/8/5R2 w - - 0 1
+Pieces: 5
+Turn: White
+. . . . . . . k
+. P . . . . . .
+. . . . . . p .
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+. . . . . R . .
+Algorithm: Minimax
+Depth (plies): 3
+Searching... Please wait.
+Selected move: Kg4
+Evaluation: 13
+Time: 0.0366 seconds

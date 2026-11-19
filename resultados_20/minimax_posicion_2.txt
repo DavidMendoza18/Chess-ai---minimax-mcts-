@@ -1,0 +1,18 @@
+Position: 2 - The Evergreen Game
+FEN: 1r4r1/pbpknp1p/1b3P2/8/8/B1PB1q2/P4PPP/3R2K1 w - - 0 1
+Pieces: 21
+Turn: White
+. r . . . . r .
+p b p k n p . p
+. b . . . P . .
+. . . . . . . .
+. . . . . . . .
+B . P B . q . .
+P . . . . P P P
+. . . R . . K .
+Algorithm: Minimax
+Depth (plies): 3
+Searching... Please wait.
+Selected move: Be2+
+Evaluation: -6
+Time: 0.8258 seconds

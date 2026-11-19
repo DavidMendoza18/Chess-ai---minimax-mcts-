@@ -1,0 +1,18 @@
+Position: 20 - Promotion, Sacrifice and Queen-and-Pawn Mate
+FEN: 7k/b1Pn4/R6P/8/8/6K1/8/8 w - - 0 1
+Pieces: 7
+Turn: White
+. . . . . . . k
+b . P n . . . .
+R . . . . . . P
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+. . . . . . . .
+Algorithm: Minimax
+Depth (plies): 3
+Searching... Please wait.
+Selected move: Rxa7
+Evaluation: 12
+Time: 0.1890 seconds

@@ -1,0 +1,18 @@
+Position: 8 - Queen Sacrifice and Knight Support
+FEN: 2N3rk/5Qpp/8/8/8/8/5R2/2K5 w - - 0 1
+Pieces: 8
+Turn: White
+. . N . . . r k
+. . . . . Q p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . R . .
+. . K . . . . .
+Algorithm: Minimax
+Depth (plies): 3
+Searching... Please wait.
+Selected move: Qf8
+Evaluation: 15
+Time: 0.3024 seconds

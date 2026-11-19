@@ -1,0 +1,21 @@
+Position: 3 - The Game of the Century
+FEN: 1Q6/5pk1/2p3p1/1p2N2p/1b5P/1b4n1/r5P1/2K5 b - - 0 1
+Pieces: 15
+Turn: Black
+. Q . . . . . .
+. . . . . p k .
+. . p . . . p .
+. p . . N . . p
+. b . . . . . P
+. b . . . . n .
+r . . . . . P .
+. . K . . . . .
+Algorithm: Minimax with alpha-beta
+Depth (plies): 5
+Time limit: 60.0 seconds
+Searching...
+Selected move: Ne2+
+Evaluation: -10000
+Forced mate within search depth: YES
+Example line: Ne2+ Kb1 Nc3+ Kc1 Ba3#
+Time: 0.1285 seconds

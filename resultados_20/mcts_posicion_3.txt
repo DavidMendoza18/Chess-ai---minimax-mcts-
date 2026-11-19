@@ -1,0 +1,19 @@
+Position: 3 - The Game of the Century
+FEN: 1Q6/5pk1/2p3p1/1p2N2p/1b5P/1b4n1/r5P1/2K5 b - - 0 1
+Pieces: 15
+Turn: Black
+. Q . . . . . .
+. . . . . p k .
+. . p . . . p .
+. p . . N . . p
+. b . . . . . P
+. b . . . . n .
+r . . . . . P .
+. . K . . . . .
+Algorithm: MCTS
+Simulations: 1000
+Rollout limit (plies): 80
+Seed: 42
+Searching... Please wait.
+Selected move: Rxg2
+Time: 4.3588 seconds

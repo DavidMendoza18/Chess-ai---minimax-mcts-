@@ -1,0 +1,18 @@
+Position: 9 - Rook Sacrifice: Queen on the Long Diagonal
+FEN: 1R4rk/3N2pp/7Q/8/8/8/8/6K1 w - - 0 1
+Pieces: 8
+Turn: White
+. R . . . . r k
+. . . N . . p p
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+Algorithm: Minimax
+Depth (plies): 3
+Searching... Please wait.
+Selected move: Qd6
+Evaluation: 15
+Time: 0.2976 seconds

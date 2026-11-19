@@ -1,0 +1,18 @@
+Position: 14 - Smothered Mate
+FEN: 6rk/6pp/7P/1N2Q3/6pb/8/8/6K1 w - - 0 1
+Pieces: 10
+Turn: White
+. . . . . . r k
+. . . . . . p p
+. . . . . . . P
+. N . . Q . . .
+. . . . . . p b
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+Algorithm: Minimax
+Depth (plies): 3
+Searching... Please wait.
+Selected move: hxg7+
+Evaluation: 7
+Time: 0.3717 seconds

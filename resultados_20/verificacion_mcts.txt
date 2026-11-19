@@ -1,0 +1,106 @@
+
+Position: 1 - The Immortal Game
+MCTS move: Qf2
+Forces mate within 3 moves: NO
+Verification time: 0.1105 seconds
+
+Position: 2 - The Evergreen Game
+MCTS move: Ba6+
+Forces mate within 3 moves: NO
+Verification time: 0.0378 seconds
+
+Position: 3 - The Game of the Century
+MCTS move: Rxg2
+Forces mate within 3 moves: NO
+Verification time: 0.1389 seconds
+
+Position: 4 - Reti's Mate
+MCTS move: Qa6
+Forces mate within 3 moves: NO
+Verification time: 1.1808 seconds
+
+Position: 5 - Loyd's Charles XII Problem
+MCTS move: hxg3
+Forces mate within 3 moves: NO
+Verification time: 0.0443 seconds
+
+Position: 6 - Back-Rank Mate: Queen Sacrifices
+MCTS move: Qxd2
+Forces mate within 3 moves: NO
+Verification time: 0.0296 seconds
+
+Position: 7 - Back-Rank Mate: Quiet Knight Move
+MCTS move: Re7
+Forces mate within 3 moves: NO
+Verification time: 0.1757 seconds
+
+Position: 8 - Queen Sacrifice and Knight Support
+MCTS move: Ne7
+Forces mate within 3 moves: NO
+Verification time: 0.0151 seconds
+
+Position: 9 - Rook Sacrifice: Queen on the Long Diagonal
+MCTS move: Qh2
+Forces mate within 3 moves: NO
+Verification time: 0.0694 seconds
+
+Position: 10 - Rook Sacrifice: Queen and Knight Mate
+MCTS move: Kb2
+Forces mate within 3 moves: NO
+Verification time: 0.0837 seconds
+
+Position: 11 - Anastasia's Mate
+MCTS move: Qe2
+Forces mate within 3 moves: NO
+Verification time: 0.1328 seconds
+
+Position: 12 - Arabian Mate
+MCTS move: Rb7
+Forces mate within 3 moves: NO
+Verification time: 0.0594 seconds
+
+Position: 13 - Arabian Mate: Rook Lift
+MCTS move: Nxd6
+Forces mate within 3 moves: NO
+Verification time: 0.0179 seconds
+
+Position: 14 - Smothered Mate
+MCTS move: Na3
+Forces mate within 3 moves: NO
+Verification time: 0.0348 seconds
+
+Position: 15 - Double-Check Mate
+MCTS move: Rxa8
+Forces mate within 3 moves: YES
+Verification time: 0.0875 seconds
+
+Position: 16 - Promotion Mate
+MCTS move: Rh1+
+Forces mate within 3 moves: NO
+Verification time: 0.0301 seconds
+
+Position: 17 - Double Promotion
+MCTS move: Ra6
+Forces mate within 3 moves: NO
+Verification time: 0.1012 seconds
+
+Position: 18 - Under-Promotion to a Rook
+MCTS move: Kb1
+Forces mate within 3 moves: NO
+Verification time: 0.0623 seconds
+
+Position: 19 - Under-Promotion to a Bishop
+MCTS move: Qe2
+Forces mate within 3 moves: NO
+Verification time: 0.2002 seconds
+
+Position: 20 - Promotion, Sacrifice and Queen-and-Pawn Mate
+MCTS move: c8=Q+
+Forces mate within 3 moves: YES
+Verification time: 0.0339 seconds
+
+SUMMARY
+Positions checked: 20
+MCTS moves that force mate within 3: 2
+MCTS moves that do not: 18
+Unverified positions: 0

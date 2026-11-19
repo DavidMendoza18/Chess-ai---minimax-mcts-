@@ -1,0 +1,18 @@
+Position: 19 - Under-Promotion to a Bishop
+FEN: 8/n5kP/3P4/8/2Q5/5K2/8/8 w - - 0 1
+Pieces: 6
+Turn: White
+. . . . . . . .
+n . . . . . k P
+. . . P . . . .
+. . . . . . . .
+. . Q . . . . .
+. . . . . K . .
+. . . . . . . .
+. . . . . . . .
+Algorithm: Minimax
+Depth (plies): 3
+Searching... Please wait.
+Selected move: Qg8+
+Evaluation: 16
+Time: 0.2347 seconds

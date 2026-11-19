@@ -1,0 +1,18 @@
+Position: 15 - Double-Check Mate
+FEN: r2B2k1/5ppp/8/5Q2/8/R7/5PPP/6K1 w - - 0 1
+Pieces: 12
+Turn: White
+r . . B . . k .
+. . . . . p p p
+. . . . . . . .
+. . . . . Q . .
+. . . . . . . .
+R . . . . . . .
+. . . . . P P P
+. . . . . . K .
+Algorithm: Minimax
+Depth (plies): 3
+Searching... Please wait.
+Selected move: Rxa8
+Evaluation: 18
+Time: 0.8039 seconds

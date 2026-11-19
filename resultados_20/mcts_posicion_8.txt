@@ -1,0 +1,19 @@
+Position: 8 - Queen Sacrifice and Knight Support
+FEN: 2N3rk/5Qpp/8/8/8/8/5R2/2K5 w - - 0 1
+Pieces: 8
+Turn: White
+. . N . . . r k
+. . . . . Q p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . R . .
+. . K . . . . .
+Algorithm: MCTS
+Simulations: 1000
+Rollout limit (plies): 80
+Seed: 42
+Searching... Please wait.
+Selected move: Ne7
+Time: 4.0115 seconds

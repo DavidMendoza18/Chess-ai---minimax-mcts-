@@ -1,0 +1,21 @@
+Position: 4 - Reti's Mate
+FEN: rnb1kb1r/pp3ppp/2p5/4q3/4n3/3Q4/PPPB1PPP/2KR1BNR w - - 0 1
+Pieces: 27
+Turn: White
+r n b . k b . r
+p p . . . p p p
+. . p . . . . .
+. . . . q . . .
+. . . . n . . .
+. . . Q . . . .
+P P P B . P P P
+. . K R . B N R
+Algorithm: Minimax with alpha-beta
+Depth (plies): 5
+Time limit: 60.0 seconds
+Searching...
+Selected move: Qd8+
+Evaluation: 10000
+Forced mate within search depth: YES
+Example line: Qd8+ Kxd8 Bg5+ Ke8 Rd8#
+Time: 0.1693 seconds

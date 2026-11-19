@@ -1,0 +1,19 @@
+Position: 16 - Promotion Mate
+FEN: 7k/1P6/6p1/8/8/6K1/8/5R2 w - - 0 1
+Pieces: 5
+Turn: White
+. . . . . . . k
+. P . . . . . .
+. . . . . . p .
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+. . . . . R . .
+Algorithm: MCTS
+Simulations: 1000
+Rollout limit (plies): 80
+Seed: 42
+Searching... Please wait.
+Selected move: Rh1+
+Time: 3.0614 seconds

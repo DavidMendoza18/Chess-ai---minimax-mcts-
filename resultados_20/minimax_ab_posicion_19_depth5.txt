@@ -1,0 +1,21 @@
+Position: 19 - Under-Promotion to a Bishop
+FEN: 8/n5kP/3P4/8/2Q5/5K2/8/8 w - - 0 1
+Pieces: 6
+Turn: White
+. . . . . . . .
+n . . . . . k P
+. . . P . . . .
+. . . . . . . .
+. . Q . . . . .
+. . . . . K . .
+. . . . . . . .
+. . . . . . . .
+Algorithm: Minimax with alpha-beta
+Depth (plies): 5
+Time limit: 60.0 seconds
+Searching...
+Selected move: Qg8+
+Evaluation: 10000
+Forced mate within search depth: YES
+Example line: Qg8+ Kh6 h8=Q#
+Time: 1.1341 seconds

@@ -1,0 +1,21 @@
+Position: 18 - Under-Promotion to a Rook
+FEN: 3Nk3/2P3b1/8/8/8/8/8/K5R1 w - - 0 1
+Pieces: 6
+Turn: White
+. . . N k . . .
+. . P . . . b .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . . R .
+Algorithm: Minimax with alpha-beta
+Depth (plies): 5
+Time limit: 60.0 seconds
+Searching...
+Selected move: Rxg7
+Evaluation: 10000
+Forced mate within search depth: YES
+Example line: Rxg7 Kf8 Ne6+ Ke8 c8=Q#
+Time: 0.0593 seconds

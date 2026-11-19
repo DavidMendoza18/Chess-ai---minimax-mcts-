@@ -1,0 +1,18 @@
+Position: 13 - Arabian Mate: Rook Lift
+FEN: 2n4k/3R4/3p4/8/4N3/8/8/3nK3 w - - 0 1
+Pieces: 7
+Turn: White
+. . n . . . . k
+. . . R . . . .
+. . . p . . . .
+. . . . . . . .
+. . . . N . . .
+. . . . . . . .
+. . . . . . . .
+. . . n K . . .
+Algorithm: Minimax
+Depth (plies): 3
+Searching... Please wait.
+Selected move: Kxd1
+Evaluation: 5
+Time: 0.1122 seconds
